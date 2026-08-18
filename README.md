@@ -1,8 +1,7 @@
 # Ethel Sumibcay
 
 <!-- PLACEHOLDER: Replace with 3-6 sentences on who you are and what you are working toward. -->
-Three to six sentences on who you are and what you are working toward go here. Say what you're studying or building, the kind of problems you're drawn to, and where this portfolio is headed.
-
+I’m Ethel, a nurse leader and Manager for Quality, Patient Safety, and Regulatory Affairs dedicated to strengthening safe, reliable care across hospital systems. Over 17 years, I’ve advanced from CNA to RN III to Performance Improvement Coordinator and now manager, gaining a deep understanding of frontline workflows and organizational strategy. I focus on building dependable processes, improving regulatory readiness, and supporting multidisciplinary teams through continuous improvement. Right now, I’m expanding my capabilities through MBA studies, with an emphasis on operations, strategy, and system-level leadership. My work centers on designing structures that elevate patient outcomes and ensure compliance across the organization.
 ## Engagement Index
 
 This table is the map of the portfolio: each row links a piece of work to the capability it exercised and the artifacts it produced.
