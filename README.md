@@ -1,2 +1,2 @@
 # Ethel-Sumibcay
-I’m a Hawai‘i‑based clinical leader with 15+ years of experience advancing patient safety, regulatory readiness, and multidisciplinary performance improvement across acute‑care settings. My work focuses on transforming frontline insights into sustainable, data‑driven solutions that elevate care quality and operational efficiency.
+I’m Ethel Sumibcay, a Hawai‘i-based nurse leader with 17 years of experience in acute care, endoscopy, and performance improvement. I’m passionate about patient safety, regulatory readiness, and building systems that help clinicians deliver excellent care. I’m currently pursuing my MBA to strengthen my skills in strategy, operations, and organizational leadership while raising my family in Hawai‘i.
