@@ -82,4 +82,4 @@ Provided care across multiple units including medical-surgical, telemetry, and I
 
 ## Projects
 
-- _Link out to entries in `capabilities/` once they exist._
+
