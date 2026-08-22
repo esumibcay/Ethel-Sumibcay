@@ -3,7 +3,7 @@
 <!-- PLACEHOLDER: Rough drafts are fine to start. Replace every section below with your own content. -->
 
 
-91-1200 Waiemi St. Ewa Beach, HI 96706 • (808) 206-6922 • evsumibcay@gmail.com
+91-1200 Waiemi St. Ewa Beach, HI 96706 • (808) 206-6922 • esumib@hawaii.edu
 
 ## Summary
 
