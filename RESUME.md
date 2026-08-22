@@ -80,6 +80,6 @@ Provided care across multiple units including medical-surgical, telemetry, and I
 • Basic Life Support (BLS), American Heart Association – Healthcare Provider (Exp. January 2028)
 
 
-## Projects
+
 
 
