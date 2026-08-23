@@ -1,1 +1,71 @@
+# -----------------------------
+# OS metadata (macOS + Windows)
+# -----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
+# -----------------------------
+# Office lock + temp files
+# (Excel, Word, PowerPoint)
+# -----------------------------
+~$*.xlsx
+~$*.xlsm
+~$*.docx
+~$*.pptx
+*.tmp
+
+# -----------------------------
+# Editor backup + swap files
+# -----------------------------
+*.bak
+*.swp
+*.swo
+*~
+.#*
+
+# -----------------------------
+# Python / Jupyter artifacts
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# -----------------------------
+# Node / JavaScript tooling
+# -----------------------------
+node_modules/
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+.env/
+.env
+*.env
+
+# -----------------------------
+# Credentials or secrets
+# (never commit these)
+# -----------------------------
+*.key
+*.pem
+*.crt
+*.p12
+*.token
+*.secrets
+*.credentials
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# Cache directories
+# -----------------------------
+.cache/
