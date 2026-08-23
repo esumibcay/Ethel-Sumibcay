@@ -2,9 +2,6 @@
 
 <!-- PLACEHOLDER: Rough drafts are fine to start. Replace every section below with your own content. -->
 
-
-## Summary
-
 Quality & Patient Safety Manager leveraging expertise in performance improvement, regulatory compliance, and
 data‑driven patient safety strategies to elevate clinical outcomes, strengthen system reliability, and drive
 organizational excellence.
