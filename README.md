@@ -1,7 +1,7 @@
 # Ethel Sumibcay
 
 <!-- PLACEHOLDER: Replace with 3-6 sentences on who you are and what you are working toward. -->
-Hi, I’m Ethel. I lead Quality, Patient Safety, and Regulatory Affairs, working to make patient care safer and more reliable. Over 17 years I’ve moved from CNA to RN to Performance Improvement Coordinator and now manager, which gives me a strong grasp of both bedside realities and organizational strategy. I focus on dependable processes, regulatory preparedness, and supporting teams through continuous improvement. I’m also studying for an MBA to strengthen my skills in operations, strategy, and leadership.
+I lead Quality, Patient Safety, and Regulatory Affairs, working to make patient care safer and more reliable. Over 17 years I’ve moved from CNA to RN to Performance Improvement Coordinator and now manager, which gives me a strong grasp of both bedside realities and organizational strategy. I focus on dependable processes, regulatory preparedness, and supporting teams through continuous improvement. I’m also studying for an MBA to strengthen my skills in operations, strategy, and leadership.
 ## Engagement Index
 
 This table is the map of the portfolio: each row links a piece of work to the capability it exercised and the artifacts it produced.
