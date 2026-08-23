@@ -1,4 +1,4 @@
-# Ethel Sumibcay
+# Ethel Sumibcay, BSN, RN, RN-BC, CPHQ
 
 <!-- PLACEHOLDER: Rough drafts are fine to start. Replace every section below with your own content. -->
 
