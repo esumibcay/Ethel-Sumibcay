@@ -8,8 +8,8 @@ organizational excellence.
 
 ## Education
 
-MAY 2009
-Bachelor of Science in Nursing | Hawaii Pacific University | Honolulu, HI
+May 2009
+##Bachelor of Science in Nursing | Hawaii Pacific University | Honolulu, HI
 
 
 ## Experience
