@@ -19,14 +19,14 @@ Bachelor of Science in Nursing | Hawaii Pacific University | Honolulu, HI
 
 ## Experience
 
-May 2026 - Present
+June 2026 - Present
 Manager - Quality & Regulatory Affairs | Queen’s Medical Center – West Oahu | Ewa Beach, HI
 
 
 Provides leadership for hospital‑wide quality, patient safety, and regulatory compliance programs by directing performance improvement initiatives, overseeing accreditation readiness, ensuring adherence to CMS, Joint Commission, and state regulatory standards, and managing data reporting for key quality and safety metrics. The role leads multidisciplinary teams in root cause analyses, corrective action planning, and system‑level improvements while fostering a culture of safety, accountability, and continuous readiness.
 
 
-December 2021 - May 2026
+December 2021 - June 2026
 Clinical PI Coordinator/QPS Advisor | Queen’s Medical Center – West Oahu | Ewa Beach, HI
 
 Lead and support organizational quality and patient safety initiatives, including accreditation readiness for Joint Commission and Department of Health surveys. 
