@@ -1,9 +1,7 @@
 # Ethel Sumibcay, BSN, RN, RN-BC, CPHQ
 
 
-Quality & Patient Safety Manager leveraging expertise in performance improvement, regulatory compliance, and
-data‑driven patient safety strategies to elevate clinical outcomes, strengthen system reliability, and drive
-organizational excellence.
+Results-driven nursing professional with 17 years of healthcare experience and proven expertise in quality improvement, patient safety, and regulatory compliance. Skilled in leading multidisciplinary initiatives, analyzing clinical data, and implementing evidence-based practices to improve outcomes. Recognized for fostering a culture of safety, collaboration, and continuous improvement across healthcare settings.
 
 ## Education
 
