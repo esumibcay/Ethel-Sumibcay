@@ -13,7 +13,7 @@ The reason this stage exists, and the reason it is graded before the model: a pr
 
 What you did write is right, and it is worth keeping. "Because the farmers' market sets all the prices, the farm has no control over what it earns per bed — it's a price taker. That means the only real decision is how much to plant" is the case understood correctly, and "keep planting beds as long as the next bed earns more than it costs; when the marginal cost of the next bed reaches the market price, you stop" is the P = MC rule stated cleanly. You have the economics. What is missing is the step where you point it at a number.
 
-One path problem to fix at the same time: the file is at docs/briefs/docs/briefs/perfect-competition-brief.md — the folder name got typed twice. The graded path is docs/briefs/perfect-competition-brief.md. Copy the contents, create the file at the correct path, and delete the nested docs/briefs/docs/ folder.
+One path problem to fix at the same time: your file is at docs/briefs/docs/briefs/perfect-competition-brief.md — the folder name got typed twice. The graded path is docs/briefs/perfect-competition-brief.md. Copy the contents, create the file at the correct path, and delete the nested docs/briefs/docs/ folder.
 
 - State the problem in your own words. Half a page. What the farm is deciding (how many beds of tomatoes, carrots, and mesclun), what is fixed (the 36-week season, $20,000 of fixed costs, the prices, the per-crop caps of 20/20/30, the farmer's 720 field hours, up to four temp workers at 1,440 hours each), what you choose, and what limits the choice. Restating is not copying — if you cannot say it differently from the case README, you do not have it yet.
 
