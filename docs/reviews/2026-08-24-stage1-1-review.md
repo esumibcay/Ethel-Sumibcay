@@ -1,33 +1,35 @@
 <!-- PR TARGET: https://github.com/esumibcay/Ethel-Sumibcay | Stage 1.1 (2.5 pts) -->
-# Stage 1.1 review — engagement brief
+# Stage 1.1 review — engagement brief · **91 / 100** (A-) · 2.28 / 2.5 pts
 
-**Scored 38 out of 100, and I am holding it rather than entering it. Held for revision; the deadline has not passed.**
+**Brief:** [`docs/briefs/perfect-competition-brief.md`](https://github.com/esumibcay/Ethel-Sumibcay/blob/main/docs/briefs/perfect-competition-brief.md)
 
-**Brief:** [`docs/briefs/docs/briefs/perfect-competition-brief.md`](https://github.com/esumibcay/Ethel-Sumibcay/blob/main/docs/briefs/docs/briefs/perfect-competition-brief.md)
+> Re-graded 2026-08-26. Your previous result was 38, held rather than entered because the brief had no hypothesis in it. You wrote one, and it is one of the two or three strongest in the cohort. This score is entered.
 
-> You wrote a clear, correct explanation of the case — but the brief contains no hypothesis. There is no predicted mix of beds anywhere in it, and the hypothesis is the deliverable. On the rubric that comes to 38, which I am not entering, because this is a brief that is missing its last paragraph rather than a brief that was done poorly.
+| Criterion | Earned | Notes |
+|---|---|---|
+| Problem restated in your own voice | 28 / 30 | This is the best problem statement I have read in this stage. It is accurate, it is in your voice rather than the case README's, and it gets the hard part right: "planting more beds of the same crop makes all of that crop's beds harder to manage because of diminishing returns." That word all is the whole mechanism. Two people in this cohort have already built workbooks that apply the penalty only to the newest bed, and their models are tens of thousands of dollars off because of it. You have the caps right at 20 / 20 / 30, the price-taker framing right, and the labor constraint identified as the thing that actually binds. The two points off are for what is not there: no numbers. The prices, the hours per bed, and the diminishing-returns rates are the evidence your hypothesis rests on, and quoting them would have made the next criterion easier too. |
+| Hypothesis names a specific mix | 25 / 25 | Six tomato beds, 20 carrot beds, 24 mesclun beds. Three real integers, no ranges, no percentages, no "balanced mix." That is exactly what this criterion asks for. |
+| Economic mechanism | 20 / 25 | You reason crop by crop and you get the ordering right: tomatoes get expensive fastest so you keep them small, carrots stay cheap so you take the cap, mesclun sits between. That ordering is the 10 percent, 2.5 percent, and 1.25 percent diminishing-returns rates, correctly ranked, and you arrived at it from the economics rather than from a number in a cell. Five points off for the same reason as above: the argument is qualitative where the case hands you the quantities. "Tomatoes get hard very fast" is right; "the 20th tomato bed takes roughly 6.7 times the labor per bed of the first, and at $8,800 a bed that catches up sooner than the carrot price does at $2,094" is the same claim with the evidence attached. One thing you skipped that costs a little: you do not say which crops you think stop because marginal cost reaches the price and which stop because they hit a bed cap. Your own numbers imply carrots stop at the cap and tomatoes stop on economics — saying so out loud is a sharper claim than the mix alone. |
+| Falsifiability and process | 18 / 20 | Three named outcomes, each tied to a specific assumption that it would break. "If the model plants fewer than 20 carrot beds, then labor or diminishing returns must have stopped carrots earlier than I expected." That is a real falsification condition and it is rarer than it should be — eight of the eleven briefs I graded in the first pass either had no such section or had the circular version of it, "I would know I was wrong if the model showed a different mix," which is true of every hypothesis ever written. Yours are not that. The brief is at the correct path now, the commit message says what changed, and it was committed before any modeling. Two points off because no AI critique session for this brief is logged in prompt-log.md — the stage asks for it, and the last entry there is the 2026-08-18 scaffolding session. |
+| **Final** | **91 / 100** | earned on merit |
 
-### What to do
+### What changed
 
-The reason this stage exists, and the reason it is graded before the model: a prediction written before the model runs is falsifiable. The same sentence written afterwards is a summary of the output, and it teaches you nothing, because you can no longer tell "I understood the economics" from "I read the answer cell." Stage 3 asks you to compare what you predicted against what the model found — and that comparison cannot be reconstructed later. A wrong hypothesis, precisely reasoned, is worth as much as a correct one and considerably more than a lucky one.
+Last time the problem statement was already right and the hypothesis was missing. You kept the part that was working and added the part that was not, which is the correct response to feedback and less common than you would think — the usual instinct is to rewrite everything.
 
-What you did write is right, and it is worth keeping. "Because the farmers' market sets all the prices, the farm has no control over what it earns per bed — it's a price taker. That means the only real decision is how much to plant" is the case understood correctly, and "keep planting beds as long as the next bed earns more than it costs; when the marginal cost of the next bed reaches the market price, you stop" is the P = MC rule stated cleanly. You have the economics. What is missing is the step where you point it at a number.
+You also fixed the duplicated folder path. Your brief was at docs/briefs/docs/briefs/perfect-competition-brief.md and is now where it belongs. That mattered more than it looks: a file at the wrong path may not be found at all, and in a real repository the reviewer does not go looking.
 
-One path problem to fix at the same time: your file is at docs/briefs/docs/briefs/perfect-competition-brief.md — the folder name got typed twice. The graded path is docs/briefs/perfect-competition-brief.md. Copy the contents, create the file at the correct path, and delete the nested docs/briefs/docs/ folder.
+### The one thing worth sitting with
 
-- State the problem in your own words. Half a page. What the farm is deciding (how many beds of tomatoes, carrots, and mesclun), what is fixed (the 36-week season, $20,000 of fixed costs, the prices, the per-crop caps of 20/20/30, the farmer's 720 field hours, up to four temp workers at 1,440 hours each), what you choose, and what limits the choice. Restating is not copying — if you cannot say it differently from the case README, you do not have it yet.
+Your tomato call is 6 beds. I am not going to tell you what the model returns, because Stage 3 is where that comparison happens and it is worth more if you have not been told the answer. But here is the question your own brief raises and does not answer: you say tomatoes get expensive fast, and that is right. What you have not accounted for is that the farmer's own 720 field hours are the expensive labor at $34.72 an hour, and once those run out, every additional hour is a temporary worker at $17.36. Cheaper labor arriving partway up the schedule does something interesting to marginal cost, and it happens right around where you have set your tomato number.
 
-- Name a specific mix. Real bed counts: "I expect X tomato beds, Y carrot beds, Z mesclun beds." Not a range, not percentages, not "a balanced mix."
-
-- Say why, using the numbers the case gives you. The mechanism that decides this case is diminishing returns: labor hours for q beds of a crop are q x hours-per-week-per-bed x 36 x (1 + rate)^q, where the rate is 10% a bed for tomatoes, 2.5% for carrots, and 1.25% for mesclun. That compounding is why marginal cost rises, and why the answer is not just "plant the crop with the highest price." Tomatoes earn $8,800 a bed against carrots' $2,094 — but the 20th tomato bed costs roughly 6.7 times the labor per bed of the first. Say which crops you think stop because marginal cost catches the price, and which stop because they hit a bed cap.
-
-- Say how you would know you were wrong. Two or three named outcomes. "Carrots finishing below their 20-bed cap would mean something other than diminishing returns bound first." A prediction that survives every possible result is not a prediction.
-
-- Commit it to docs/briefs/perfect-competition-brief.md with a message that says what changed — for example, "Add perfect-competition brief with mix hypothesis."
+If your prediction turns out low, that is very likely why. Work out what you think happens to the marginal-cost curve at the moment the labor source switches, and write it down now, before you build. Whether you turn out to be right or wrong, you will have a much better Stage 3 memo than someone reconstructing the reasoning afterwards.
 
 ### Looking ahead
 
-Stage 2 asks for a spec in capabilities/marginal-analysis/ before the workbook exists, then an audit of what the AI builds from it. The reasoning you put in this brief is the reasoning that spec runs on, so this is not a box to tick on the way past — it is the thinking Stage 2 is built on top of.
+Stage 1.2 asks for capabilities/marginal-analysis/spec.md before the workbook exists, then an audit of what gets built from it. Your folder and a stub are already there. Put the published check figures into the spec as acceptance criteria before you build anything — the mix, the profit, the hand-check at one bed of each crop. Both completed workbooks in this cohort so far have costing errors that a check-figure table would have caught in a minute, and neither spec had one.
+
+The labor sentence you wrote in this brief — the one about all of a crop's beds getting harder, not just the newest — belongs in that spec, in the exact words you used here. It is the single formula that decides whether the model is right.
 
 ---
 
