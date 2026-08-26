@@ -1,3 +1,0 @@
-# Perfect Competition — Engagement Brief
-
-In this case, the farm has 64 beds and needs to decide how many beds of tomatoes, carrots, and mesclun to plant for the season. Because the farmers’ market sets all the prices, the farm has no control over what it earns per bed — it’s a price taker. That means the only real decision is how much to plant. Under perfect competition, the rule is simple: keep planting beds as long as the next bed earns more than it costs. When the marginal cost of the next bed reaches the market price (P = MC), you stop. The whole model is about using marginal analysis to figure out that point and decide the best mix of crops.
