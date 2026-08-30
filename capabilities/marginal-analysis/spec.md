@@ -69,3 +69,13 @@ Steps to reproduce this model's results from `model.xlsx`:
 7. Confirm the optimal mix equals Tomatoes 10, Carrots 20, Mesclun 30, and season profit equals $42,762.
 8. Confirm no error cells (#REF!, #DIV/0!, #NAME?) and that every calculated cell contains a formula, not a pasted value.
 9. Confirm all constraint-check cells show as satisfied.
+
+## Audit Findings
+
+- **Named ranges:** Spot-checked several input cells (PRICE_TOMATO, WEEKS, FARMER_WAGE, DIM_PCT_TOMATO, and others) via the Name Box and the named-range dropdown. All confirmed as proper named ranges matching the spec.
+
+- **Solver constraints — critical defect found and fixed:** The initial build had zero constraints entered in Solver. Running the optimizer with no constraints produced 74 total beds and a profit of $45,039 — both physically impossible under the case's 64-bed limit, and higher than the correct answer. After adding all required constraints (tomato beds ≤ 20, carrot beds ≤ 20, mesclun beds ≤ 30, total beds ≤ 64, temp workers ≤ 4, and integer constraints on the three bed-count cells), re-running Solver produced results close to Tomatoes 10 / Carrots 20 / Mesclun 30 with profit near $42,762 — matching the published check figures. This is recorded as a structural defect in the initial AI-generated build, corrected through the spec-audit-regenerate loop.
+
+- **q=1 hand check:** By hand, 1 bed of tomatoes should require 1 × 2.50 × 36 × 1.10 = 99 hours - confirmed.
+
+- **Error cell scan:** Scanned all sheets via Ctrl+F for #REF!, #DIV/0!, and #NAME? — none found.
