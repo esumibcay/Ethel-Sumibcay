@@ -1,7 +1,7 @@
 <!-- PR TARGET: https://github.com/esumibcay/Ethel-Sumibcay | Stage 1.2 (8 pts) -->
 # Stage 1.2 review — spec, build, audit
 
-**Provisional score 76 out of 100 — held, not entered. The stage is not due until 6 September and there are three specific defects your own workbook is already reporting.**
+**Provisional score 76 out of 100 — that would be 11.40 of the 15 points for this stage — held, not entered. The stage is not due until 6 September and there are three specific defects your own workbook is already reporting.**
 
 **Spec:** [`capabilities/marginal-analysis/spec.md`](https://github.com/esumibcay/Ethel-Sumibcay/blob/main/capabilities/marginal-analysis/spec.md)
 
@@ -50,6 +50,14 @@ Rename the real workbook to model.xlsx and delete the stub. Also worth avoiding 
 The stage is not due until 6 September and your workbook is currently reporting two of its own checks as failing. Entering 76 today would record the state of a model mid-repair.
 
 The number is here so you know where you stand. The three defects above are hours of work, not days, and the audit entry you have already written is the hard part.
+
+### A note on the point value, new as of today
+
+This stage is now worth **15 points** rather than the 8 in the stage brief, and **Stage 1.3** — the analysis, the memo, and the prompt log — is now worth **15** as well. Cases 2 and 3 have been dropped for this cohort, so Case 1 *is* the case.
+
+In practice: this stage and the next one are together worth **30 of the 35 points** on the case. Stage 0 and Stage 1.1 are 2.5 each. The weight has moved onto the build and the analysis, which is where the work actually is.
+
+Nothing about the grading changes — the score is still out of 100 and converted at the end. The stage brief and the case page still show the old numbers; they have not been updated yet.
 
 ---
 
