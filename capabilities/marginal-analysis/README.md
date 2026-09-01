@@ -1,15 +1,17 @@
-# Capability: Marginal Analysis
+# Marginal Analysis — Market Garden (Case 1, Stage 1.2)
 
-<!-- PLACEHOLDER -->
-_One or two sentences on what this capability is and when you'd reach for it._
-
-## Engagements
-
-Links to the briefs, analyses, and decisions that exercised this capability. Empty until the first engagement is written.
-
-- _None yet — see [docs/briefs/](../../docs/briefs/) for the brief that should come first._
+Determines the profit-maximizing bed allocation (tomatoes, carrots, mesclun) across 64 beds
+for a price-taking market garden, using a Solver-based nonlinear optimization.
 
 ## Contents
 
-- `spec.md` — specification for the model/method
-- `model.xlsx` — the workbook implementing it
+- `spec.md` — the specification: inputs, calculation logic, validation tolerances, and the
+  step-by-step reproduction procedure.
+- `model.xlsx` — the workbook, built to the spec. Five sheets: Inputs, Labor, Cost,
+  Optimization, Checks. Solver-optimal mix: Tomatoes 10 / Carrots 20 / Mesclun 30 beds,
+  season profit ≈ $42,762.
+
+## Reproducing the result
+
+See the "Reproduction" section of `spec.md` for the full step-by-step procedure (Solver
+setup, changing cells, constraints, and the checks to confirm on the Checks sheet).
