@@ -16,14 +16,7 @@ In the standalone tomato schedule, marginal cost jumps at bed 5 and then drops a
 
 Carrots and mesclun look unprofitable when you grow them by themselves because each crop is being forced to carry the whole $20,000 fixed cost alone. In the standalone case, carrot profit is negative at every bed — from about –$19,413 at bed 1 to –$16,488 at bed 20. Mesclun is the same, with losses all the way down to its best point at bed 30 (–$11,922). But in the actual optimal plan, price is above marginal cost for every carrot bed and every mesclun bed. Carrot margins run from $1,120 at bed 1 down to $405 at bed 20, and mesclun stays positive all the way to bed 30. That means each bed earns more than it costs to grow. These crops are planted because the fixed cost is already being paid no matter what — mostly by tomatoes, which earn far more per bed. So the real question isn't whether carrots or mesclun can cover $20,000 on their own, but whether each additional bed earns more than it costs. Since price beats marginal cost everywhere, the answer is yes. This is the short-run shutdown rule: fixed costs are sunk, and as long as P ≥ MC, it makes sense to produce even if the crop looks unprofitable when run alone.
 
-## Figures
-
-<img width="361" height="217" alt="image" src="https://github.com/user-attachments/assets/47e919a3-c83f-4852-9037-482b1fe82cbe" />
-
-
-<img width="362" height="217" alt="image" src="https://github.com/user-attachments/assets/7a094275-4b88-488d-9290-94fc560e7889" />
-
 
 ## Against the Stage 1 hypothesis
 
-_(to write — honest paragraph: what you predicted in Stage 1 [6 tomatoes / 20 carrots / 24 mesclun], what the model found [10 / 20 / 30], and precisely what your prior got wrong)_
+In Stage 1, I predicted 6 tomato, 20 carrot, and 24 mesclun beds. Carrots were the one part I got exactly right — they stay cheap to grow and never come close to their price, so taking the full 20-bed cap was correct. Tomatoes were a directionally right but size-wrong prediction. I expected them to stop early because their diminishing returns are steep, and that part is true, but I underestimated how much room their high $8,800 price gives them. Their MC curve starts low enough that it doesn't cross price until bed 11, so the model planted 10 instead of 6. Mesclun was a different mistake entirely. I stopped at 24 out of caution, but mesclun's marginal cost never gets close to its $2,700 price — even one bed past the cap. Nothing in the economics justified stopping early, so the model went all the way to 30. Carrots were right for the right reason; tomatoes were right in direction but wrong in magnitude; mesclun was a pure judgment miss from not checking where MC meets price.
