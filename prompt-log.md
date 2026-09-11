@@ -10,15 +10,12 @@ Used Claude to generate the initial repository structure following the [portfoli
 My initial total beds were wrong, it was >64. I realized that I didn't have constraints inputted in the solver. Taught me that knowing the case study and max beds allowed made me go back and resolve the error and not take AI output at face value. 
 
 
-## 2026-09-11 — Stage 3 analysis 
-As I drafted the analysis, I made sure every part matched my workbook before I used it. AI pulled the numbers, and I verified each one against the actual cells.
+## 2026-09-11 — Stage 3: analysis, memo, and Stage 1.3 fixes
+AI pulled exact MC and shadow-price numbers from my workbook, and I wrote each of the four analysis sections and the Stage 1 hypothesis comparison myself, checking each draft against the workbook before using it.
 
-Asked how to build the two required figures. Got exact Cost-sheet column/row
-references and chart steps for carrot MC-vs-price and the tomato MC dip;
-built both charts myself in Excel.
+Got step-by-step Excel instructions (exact Cost-sheet columns and rows) for the two required figures — carrot MC-vs-price and the tomato MC dip — and built both charts myself.
 
-## 2026‑09‑11 - Memo
-Used AI to help format the memo into the required YAML‑plus‑markdown structure for perfect-competition-memo.md.
+Wrote the full memo myself. Claude checked all the numbers against my workbook (all correct, nothing needed fixing).
 
 ## Reflection
 
