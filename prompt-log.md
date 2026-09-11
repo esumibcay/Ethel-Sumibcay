@@ -17,7 +17,10 @@ Asked how to build the two required figures. Got exact Cost-sheet column/row
 references and chart steps for carrot MC-vs-price and the tomato MC dip;
 built both charts myself in Excel.
 
-### Reflection
+## 2026‑09‑11 - Memo
+Used AI to help format the memo into the required YAML‑plus‑markdown structure for perfect-competition-memo.md.
+
+## Reflection
 
 In Stage 3, I used AI to pull the numbers, but the analysis itself was mine. I made a point of double‑checking the key figures I relied on, including the tomato marginal costs at beds 10 and 11 ($8,249 and $9,391) and the carrot and mesclun shadow prices ($352.49 and $246.47) in my Cost and Optimization sheets. Taking the time to verify those values gave me confidence that the numbers I was using were correct.
 
