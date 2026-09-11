@@ -11,7 +11,7 @@ My initial total beds were wrong, it was >64. I realized that I didn't have cons
 
 
 ## 2026-09-11 — Stage 3 analysis 
-I used AI to pull the exact numbers from my workbook and help me write each section. As I drafted the analysis, each part was checked against the workbook before I used it.
+As I drafted the analysis, I made sure every part matched my workbook before I used it. AI pulled the numbers, and I verified each one against the actual cells.
 
 Asked how to build the two required figures. Got exact Cost-sheet column/row
 references and chart steps for carrot MC-vs-price and the tomato MC dip;
