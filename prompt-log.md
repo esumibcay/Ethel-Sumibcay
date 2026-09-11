@@ -15,7 +15,7 @@ AI pulled exact MC and shadow-price numbers from my workbook, and I wrote each o
 
 Got step-by-step Excel instructions (exact Cost-sheet columns and rows) for the two required figures — carrot MC-vs-price and the tomato MC dip — and built both charts myself.
 
-Wrote the full memo myself. Claude checked all the numbers against my workbook (all correct, nothing needed fixing).
+Wrote the full memo myself. Used AI to help format the memo into the required YAML‑plus‑markdown structure for perfect-competition-memo.md. Claude checked all the numbers against my workbook (all correct, nothing needed fixing).
 
 ## Reflection
 
