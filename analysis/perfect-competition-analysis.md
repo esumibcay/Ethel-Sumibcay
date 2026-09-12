@@ -13,6 +13,8 @@ Carrots and mesclun stop because they hit their bed limits while they're still m
 ## 3. The tomato MC dip at ~6 beds
 
 In the standalone tomato schedule, marginal cost jumps at bed 5 and then drops at bed 6. Bed 5 costs $7,660.86, but bed 6 costs $4,906.28. The dip happens because of a change in who is doing the work, not because tomatoes suddenly get easier to grow. At bed 5, tomatoes are still using almost all of the farmer's expensive hours at $34.72/hr. Only a tiny bit spills over to the cheaper temp labor. By bed 6, the farmer's 720 hours are completely used up, so all of bed 6's labor is priced at the cheaper $17.36/hr temp rate. Even though bed 6 needs more hours than bed 5, the wage drops by half, and that makes the cost fall. After that, every extra hour is at the same temp-labor rate, so nothing else gets cheaper, and diminishing returns push marginal cost back up. The simple lesson is that marginal cost depends on input prices as much as on the number of hours — when the wage changes, the cost curve can dip even while hours per bed keep rising.
+![Tomato marginal cost dip at bed 6](figures/Tomato-MC-Dip-Question-3-Figure.png)
+
 
 ## 4. Why grow crops that lose money on their own
 
