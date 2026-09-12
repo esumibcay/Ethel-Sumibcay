@@ -17,6 +17,17 @@ Got step-by-step Excel instructions (exact Cost-sheet columns and rows) for the 
 
 Wrote the full memo myself. Used AI to help format the memo into the required YAML‑plus‑markdown structure for perfect-competition-memo.md. Claude checked all the numbers against my workbook (all correct, nothing needed fixing).
 
+
+## 2026-09-12 — Updating from feedback 
+Re-uploaded both PNG files properly this time and renamed them to remove spaces and a "#" character that could have broken rendering. Added sentences in the analysis text that actually point at each chart, which had been missing entirely.
+
+Rewrote section 4's closing paragraph myself using the AVC figures Adam provided (carrots: $1,918.45 vs. $2,094 price; mesclun: $2,430.74 vs. $2,700 price), including the more precise "at the plan's endpoints" scoping he suggested over an unqualified "everywhere."
+
+I recalculated the memo’s sensitivity number myself: bed 10’s $551.41 margin divided by the $8,800 price is 6.27%, not the 20% I originally guessed, so I rewrote that line with the correct figure.
+
+Added the "Exercised in" section to capabilities/marginal-analysis/README.md linking to the Stage 3 analysis and memo.
+
+
 ## Reflection
 
 In Stage 3, I used AI to pull the numbers, but the analysis itself was mine. I made a point of double‑checking the key figures I relied on, including the tomato marginal costs at beds 10 and 11 ($8,249 and $9,391) and the carrot and mesclun shadow prices ($352.49 and $246.47) in my Cost and Optimization sheets. Taking the time to verify those values gave me confidence that the numbers I was using were correct.
