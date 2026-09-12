@@ -3,7 +3,7 @@
 ## 1. Why tomatoes stop at ~10 beds
 
 Tomatoes make about $8,800 per bed, which is much more than carrots, but the model still plants only 10 tomato beds even though 20 were allowed. They didn't stop because they ran out of space — they stopped because the economics stopped working. At 10 beds, tomato marginal cost is $8,249 and the price is $8,800, so that bed still earns about $551. But at bed 11, marginal cost jumps to $9,391, which is higher than the price. That means any tomato bed past 10 would lose money. Once marginal cost rises above price, the fact that tomatoes are the "money crop" doesn't matter anymore. The model stops at 10 because that's where P = MC switches from profitable to unprofitable, even though 10 more tomato beds were still available.
-![Tomato marginal cost vs. price](figures/Tomato-MC-Dip-Question-3-Figure.png)
+![Tomato marginal cost vs. price](figures/Tomato-beds-Question-1-Figure.png)
 
 
 ## 2. Which constraints bind — and what relaxing one is worth
