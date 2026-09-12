@@ -15,3 +15,8 @@ for a price-taking market garden, using a Solver-based nonlinear optimization.
 
 See the "Reproduction" section of `spec.md` for the full step-by-step procedure (Solver
 setup, changing cells, constraints, and the checks to confirm on the Checks sheet).
+
+## Exercised in
+
+- [Stage 3 analysis](../../analysis/perfect-competition-analysis.md)
+- [Stage 3 memo](../../docs/decisions/perfect-competition-memo.md)
