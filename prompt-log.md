@@ -27,6 +27,13 @@ I recalculated the memo’s sensitivity number myself: bed 10’s $551.41 margin
 
 Added the "Exercised in" section to capabilities/marginal-analysis/README.md linking to the Stage 3 analysis and memo.
 
+## 2026-09-14
+
+The earlier note about "renaming the PNGs to remove spaces and a # character" was incorrect. The filenames with spaces/# are the ones that stayed and are referenced; the hyphenated versions were deleted instead.
+
+Updated Section 4 for precision: separated the carrot AVC claim (always below price at the plan's endpoint) from the mesclun AVC behavior (dips above price at beds 13–14, then recovers). The original wording lumped both crops together.
+
+Removed two duplicate PNG files so only the correctly referenced charts remain in analysis/figures/.
 
 ## Reflection
 
