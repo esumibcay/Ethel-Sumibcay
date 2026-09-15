@@ -12,4 +12,4 @@ Both the carrot and mesclun caps bind, but carrot land is worth more to relax. A
 If expansion is possible, carrot ground should be purchased first. Total land and temp labor do not bind — the plan uses only 60 of 64 beds and 3.16 of 4 temp workers — so relaxing those constraints would not change the crop mix.
 
 ## What would change my answer
-A small drop in tomato price — about 6.3%, enough to erase the $551.41 margin on bed 10 — would make the 10th bed unprofitable and reduce tomato acreage. A larger decline would cut deeper, eliminating multiple tomato beds and shifting the crop mix more substantially.
+A price drop of about 6.27% would eliminate tomato bed 10, since its margin is $551.41 above cost. Larger declines would remove additional beds.

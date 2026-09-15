@@ -4,9 +4,7 @@
 
 Tomatoes make about $8,800 per bed, which is much more than carrots, but the model still plants only 10 tomato beds even though 20 were allowed. They didn't stop because they ran out of space — they stopped because the economics stopped working. At 10 beds, tomato marginal cost is $8,249 and the price is $8,800, so that bed still earns about $551. But at bed 11, marginal cost jumps to $9,391, which is higher than the price. That means any tomato bed past 10 would lose money. Once marginal cost rises above price, the fact that tomatoes are the "money crop" doesn't matter anymore. The model stops at 10 because that's where P = MC switches from profitable to unprofitable, even though 10 more tomato beds were still available.
 
-The chart below shows the crossing directly — the marginal cost line meets the $8,800 price line between beds 10 and 11, which is why tomatoes stop at 10 beds.
-![Tomato marginal cost vs. price](figures/Tomato-beds-Question-1-Figure.png)
-
+![Tomato marginal cost by bed](figures/Tomato%20Beds%20%231%20Figure.png)
 
 ## 2. Which constraints bind — and what relaxing one is worth
 
@@ -16,13 +14,11 @@ Carrots and mesclun stop because they hit their bed limits while they're still m
 
 In the standalone tomato schedule, marginal cost jumps at bed 5 and then drops at bed 6. Bed 5 costs $7,660.86, but bed 6 costs $4,906.28. The dip happens because of a change in who is doing the work, not because tomatoes suddenly get easier to grow. At bed 5, tomatoes are still using almost all of the farmer's expensive hours at $34.72/hr. Only a tiny bit spills over to the cheaper temp labor. By bed 6, the farmer's 720 hours are completely used up, so all of bed 6's labor is priced at the cheaper $17.36/hr temp rate. Even though bed 6 needs more hours than bed 5, the wage drops by half, and that makes the cost fall. After that, every extra hour is at the same temp-labor rate, so nothing else gets cheaper, and diminishing returns push marginal cost back up. The simple lesson is that marginal cost depends on input prices as much as on the number of hours — when the wage changes, the cost curve can dip even while hours per bed keep rising.
 
-The chart highlights the dip: costs fall from bed 5 to bed 6 because the work shifts to the lower temp‑worker wage, and then rise again as diminishing returns continue.
-![Tomato marginal cost dip at bed 6](figures/Tomato-MC-Dip-Question-3-Figure.png)
-
+![Tomato MC dip](figures/Tomato%20MC%20Dip%20%233%20Figure.png)
 
 ## 4. Why grow crops that lose money on their own
 
-Even though carrots and mesclun look unprofitable when you grow them on their own, the shutdown rule explains why they still belong in the joint plan. What matters is whether the price covers average variable cost, not the fixed cost or the marginal cost of the last bed. At the plan’s actual endpoints, both crops clear that bar. For carrots at 20 beds, AVC is $1,918.45 against a $2,094 price. For mesclun at 30 beds, AVC is $2,430.74 and the price is $2,700. Even though AVC isn’t below price at every single bed count, what matters is that at the levels we actually plant — 20 carrot beds and 30 mesclun beds — each crop earns more than its variable cost. The fixed cost is already committed, mostly covered by tomatoes, so the real question is simply whether each crop earns enough to stay open in the short run. Since P ≥ AVC at the plan’s endpoints, both carrots and mesclun should be grown.
+Even though carrots and mesclun look unprofitable when grown on their own, the shutdown rule explains why they still belong in the joint plan. What matters is whether the price covers average variable cost, not fixed cost or the marginal cost of the last bed. At the plan’s actual endpoints, both crops clear that bar. For carrots at 20 beds, AVC is $1,918.45 against a $2,094 price. For mesclun at 30 beds, AVC is $2,430.74 against a $2,700 price. Even though AVC isn’t below price at every bed count, what matters is that at the levels we actually plant — 20 carrot beds and 30 mesclun beds — each crop earns more than its variable cost. Since P ≥ AVC at the plan’s endpoints, both carrots and mesclun should be grown.
 
 
 ## Against the Stage 1 hypothesis
