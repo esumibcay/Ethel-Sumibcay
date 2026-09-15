@@ -18,7 +18,7 @@ In the standalone tomato schedule, marginal cost jumps at bed 5 and then drops a
 
 ## 4. Why grow crops that lose money on their own
 
-Even though carrots and mesclun look unprofitable when grown on their own, the shutdown rule explains why they still belong in the joint plan. What matters is whether the price covers average variable cost, not fixed cost or the marginal cost of the last bed. At the plan’s actual endpoints, both crops clear that bar. For carrots at 20 beds, AVC is $1,918.45 against a $2,094 price. For mesclun at 30 beds, AVC is $2,430.74 against a $2,700 price. Even though AVC isn’t below price at every bed count, what matters is that at the levels we actually plant — 20 carrot beds and 30 mesclun beds — each crop earns more than its variable cost. Since P ≥ AVC at the plan’s endpoints, both carrots and mesclun should be grown.
+Even though carrots and mesclun look unprofitable when grown on their own, the shutdown rule explains why they still belong in the joint plan. What matters is whether the price covers average variable cost, not fixed cost or the marginal cost of the last bed. At the plan's actual endpoints, both crops clear that bar. For carrots at 20 beds, AVC is $1,918.45 against a $2,094 price. For mesclun at 30 beds, AVC is $2,430.74 against a $2,700 price. Carrot AVC stays below price at every bed count from 1 through 20. Mesclun's does not — it briefly rises above price at beds 13 and 14 before falling back below — but what matters is the level actually planted: at 30 beds, mesclun's AVC is back under price. Since P ≥ AVC at the plan's endpoints, both carrots and mesclun should be grown.
 
 
 ## Against the Stage 1 hypothesis
