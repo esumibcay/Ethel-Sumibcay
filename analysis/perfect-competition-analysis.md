@@ -4,6 +4,8 @@
 
 Tomatoes make about $8,800 per bed, which is much more than carrots, but the model still plants only 10 tomato beds even though 20 were allowed. They didn't stop because they ran out of space — they stopped because the economics stopped working. At 10 beds, tomato marginal cost is $8,249 and the price is $8,800, so that bed still earns about $551. But at bed 11, marginal cost jumps to $9,391, which is higher than the price. That means any tomato bed past 10 would lose money. Once marginal cost rises above price, the fact that tomatoes are the "money crop" doesn't matter anymore. The model stops at 10 because that's where P = MC switches from profitable to unprofitable, even though 10 more tomato beds were still available.
 
+![Tomato marginal cost by bed](figures/Tomato%20Beds%20%231%20Figure.png)
+
 ## 2. Which constraints bind — and what relaxing one is worth
 
 Carrots and mesclun stop because they hit their bed limits while they're still making money, which means the cap — not the economics — is what stops them. For carrots, the farm uses all 20 beds. At bed 20, carrot marginal cost is $1,688.95 and the price is $2,094, so the farm is still earning $405.05 on that bed. If the farm could plant a 21st bed, it would cost $1,741.51 and still earn $352.49. That $352.49 is the shadow price — what one more carrot bed would be worth. Mesclun is the same story. The farm uses all 30 mesclun beds. At bed 30, marginal cost is $2,420.10 and the price is $2,700, leaving $279.90 of room. A 31st bed would cost $2,453.53 and earn $246.47, so $246.47 is mesclun's shadow price. The other limits don't matter: the plan uses only 60 of the 64 total beds and about 3.16 of the 4 temp workers, so those constraints aren't stopping anything. The simple takeaway is that carrot and mesclun land are worth buying first, because each extra bed would add profit, while more total land or more temp labor wouldn't change the plan at all.
@@ -11,6 +13,8 @@ Carrots and mesclun stop because they hit their bed limits while they're still m
 ## 3. The tomato MC dip at ~6 beds
 
 In the standalone tomato schedule, marginal cost jumps at bed 5 and then drops at bed 6. Bed 5 costs $7,660.86, but bed 6 costs $4,906.28. The dip happens because of a change in who is doing the work, not because tomatoes suddenly get easier to grow. At bed 5, tomatoes are still using almost all of the farmer's expensive hours at $34.72/hr. Only a tiny bit spills over to the cheaper temp labor. By bed 6, the farmer's 720 hours are completely used up, so all of bed 6's labor is priced at the cheaper $17.36/hr temp rate. Even though bed 6 needs more hours than bed 5, the wage drops by half, and that makes the cost fall. After that, every extra hour is at the same temp-labor rate, so nothing else gets cheaper, and diminishing returns push marginal cost back up. The simple lesson is that marginal cost depends on input prices as much as on the number of hours — when the wage changes, the cost curve can dip even while hours per bed keep rising.
+
+![Tomato MC dip](figures/Tomato%20MC%20Dip%20%233%20Figure.png)
 
 ## 4. Why grow crops that lose money on their own
 
