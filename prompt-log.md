@@ -37,7 +37,7 @@ Removed two duplicate PNG files so only the correctly referenced charts remain i
 
 ## Reflection
 
-In Stage 3, I used AI to pull the numbers, but the analysis itself was mine. I made a point of double‑checking the key figures I relied on, including the tomato marginal costs at beds 10 and 11 ($8,249 and $9,391) and the carrot and mesclun shadow prices ($352.49 and $246.47) in my Cost and Optimization sheets. Verifying those values against my workbook gave me confidence that the numbers I was using were correct.
+In Stage 3, AI was used to pull the numbers, but the analysis itself was mine. I made a point of double‑checking the key figures I relied on, including the tomato marginal costs at beds 10 and 11 ($8,249 and $9,391) and the carrot and mesclun shadow prices ($352.49 and $246.47) in my Cost and Optimization sheets. Verifying those values against my workbook gave me confidence that the numbers I was using were correct.
 
 Working through the guided questions also helped the economics click into place. The tomato bed‑10 versus bed‑11 comparison was the moment the stopping rule finally felt intuitive. Seeing the $8,249 and $9,391 marginal costs lined up against the $8,800 price made the P = MC cutoff concrete instead of theoretical, and it helped me understand how the model decides where to stop.
 
