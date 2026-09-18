@@ -2,32 +2,37 @@
 
 A running record of significant AI sessions — not every prompt, but the ones that shaped a decision, a model, or a piece of writing in this repo.
 
-## 2026-08-18 — Repo scaffolding
+## 2026-08-18 — Repo scaffolding (Claude)
 
 Used Claude to generate the initial repository structure following the [portfolio repo guide](https://adamwstauffer.github.io/ai-lms/portfolio-repo.html): root files, `.claude/skills/`, `capabilities/marginal-analysis/`, `docs/briefs/`, `docs/decisions/`, `data/`, `analysis/figures/`. All biographical and resume content left as placeholders for manual completion. No analysis or modeling content was generated — that starts with a brief.
-## 2026-08-29 - Claude for excel
 
-My initial total beds were wrong, it was >64. I realized that I didn't have constraints inputted in the solver. Taught me that knowing the case study and max beds allowed made me go back and resolve the error and not take AI output at face value. 
+## 2026-08-29 — Solver constraints error (Claude)
 
+My initial total beds were wrong, it was >64. I realized that I didn't have constraints inputted in the solver. Taught me that knowing the case study and max beds allowed made me go back and resolve the error and not take AI output at face value.
 
-## 2026-09-11 — Stage 3: analysis, memo, and Stage 1.3 fixes
+## 2026-09-11 — Stage 3, session 1: pulling MC and shadow-price numbers (Claude)
+
 AI pulled exact MC and shadow-price numbers from my workbook, and I wrote each of the four analysis sections and the Stage 1 hypothesis comparison myself, checking each draft against the workbook before using it.
+
+## 2026-09-11 — Stage 3, session 2: chart-building instructions (Claude)
 
 Got step-by-step Excel instructions (exact Cost-sheet columns and rows) for the two required figures — carrot MC-vs-price and the tomato MC dip — and built both charts myself.
 
+## 2026-09-11 — Stage 3, session 3: memo formatting (Claude)
+
 Wrote the full memo myself. Used AI to help format the memo into the required YAML‑plus‑markdown structure for perfect-competition-memo.md. Claude checked all the numbers against my workbook (all correct, nothing needed fixing).
 
+## 2026-09-12 — Feedback fixes: figures, section 4, memo sensitivity (Claude)
 
-## 2026-09-12 — Updating from feedback 
 Re-uploaded both PNG files properly this time and renamed them to remove spaces and a "#" character that could have broken rendering. Added sentences in the analysis text that actually point at each chart, which had been missing entirely.
 
 Rewrote section 4's closing paragraph myself using the AVC figures Adam provided (carrots: $1,918.45 vs. $2,094 price; mesclun: $2,430.74 vs. $2,700 price), including the more precise "at the plan's endpoints" scoping he suggested over an unqualified "everywhere."
 
-I recalculated the memo’s sensitivity number myself: bed 10’s $551.41 margin divided by the $8,800 price is 6.27%, not the 20% I originally guessed, so I rewrote that line with the correct figure.
+I recalculated the memo's sensitivity number myself: bed 10's $551.41 margin divided by the $8,800 price is 6.27%, not the 20% I originally guessed, so I rewrote that line with the correct figure.
 
 Added the "Exercised in" section to capabilities/marginal-analysis/README.md linking to the Stage 3 analysis and memo.
 
-## 2026-09-14
+## 2026-09-14 — Correction: renaming note, section 4 precision, duplicate cleanup (Claude)
 
 The earlier note about "renaming the PNGs to remove spaces and a # character" was incorrect. The filenames with spaces/# are the ones that stayed and are referenced; the hyphenated versions were deleted instead.
 
