@@ -69,3 +69,6 @@ venv/
 # Cache directories
 # -----------------------------
 .cache/
+
+# Scratch work (throwaway, never committed)
+scratch/
