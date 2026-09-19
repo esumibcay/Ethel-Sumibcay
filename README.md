@@ -10,5 +10,3 @@ This table is the map of the portfolio: each row links a piece of work to the ca
 | _placeholder_ | [marginal-analysis](capabilities/marginal-analysis/README.md) | _link to docs/briefs/... when written_ | _link to analysis/... when written_ | _link to docs/decisions/... when written_ |
 
 See [AGENTS.md](AGENTS.md) for how AI tools are used in this repo, and [prompt-log.md](prompt-log.md) for the running record of significant sessions.
-
-| _pending_ | [economic-research](capabilities/economic-research/README.md) | _link to docs/briefs/research-brief.md when written_ | _link to analysis/research-paper.pdf when written_ | _recommendation is in the paper itself_ |
