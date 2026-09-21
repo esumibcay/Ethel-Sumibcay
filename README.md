@@ -11,4 +11,3 @@ This table is the map of the portfolio: each row links a piece of work to the ca
 | _pending_ | [economic-research](capabilities/economic-research/README.md) | _link to docs/briefs/research-brief.md when written_ | _link to analysis/research-paper.pdf when written_ | _recommendation is in the paper itself_ |
 
 See [AGENTS.md](AGENTS.md) for how AI tools are used in this repo, and [prompt-log.md](prompt-log.md) for the running record of significant sessions.
-
