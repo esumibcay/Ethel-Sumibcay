@@ -4,7 +4,7 @@
 
 ## The challenge
 
-The challenge is the global rise in nurse turnover, which is creating severe staffing shortages that directly affect hospital quality, patient safety, and financial performance. Hospitals across high-income and low-income countries are struggling to maintain adequate staffing levels as nurses leave their jobs, migrate internationally, or exit the profession entirely. Even when hospitals have physical bed capacity, they cannot operate at full capability because they lack enough nurses to safely staff units, manage patient flow, and maintain quality standards. As turnover increases, hospitals face higher labor costs, reduced throughput, and worsening patient ou
+The challenge is the global rise in nurse turnover, which is creating severe staffing shortages that directly affect hospital quality, patient safety, and financial performance. Hospitals across high-income and low-income countries are struggling to maintain adequate staffing levels as nurses leave their jobs, migrate internationally, or exit the profession entirely. Even when hospitals have physical bed capacity, they cannot operate at full capability because they lack enough nurses to safely staff units, manage patient flow, and maintain quality standards. As turnover increases, hospitals face higher labor costs, reduced throughput, and worsening patient outcomes.
 
 This is a problem now, not a general workforce issue, because several pressures have intensified at the same time:
 
