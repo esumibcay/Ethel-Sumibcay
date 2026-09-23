@@ -1,58 +1,52 @@
 # Brief: Individual Research Paper
 
+**Research question:** How is the global rise in nurse turnover affecting hospital quality and financial performance, and which retention strategy provides the strongest economic return for stabilizing staffing levels?
+
 ## The challenge
 
-The challenge is the shortage of clinical staff needed to safely operate emergency departments (EDs), which leads to reduced throughput, overcrowding, and delays in care. Many EDs have physical space and beds available, but cannot move patients through the department because they lack enough nurses, techs, and inpatient staff to accept admissions. As a result, patients remain in the ED longer, wait times increase, and mortality risk rises for time-sensitive conditions.
+The challenge is the global rise in nurse turnover, which is creating severe staffing shortages that directly affect hospital quality, patient safety, and financial performance. Hospitals across high-income and low-income countries are struggling to maintain adequate staffing levels as nurses leave their jobs, migrate internationally, or exit the profession entirely. Even when hospitals have physical bed capacity, they cannot operate at full capability because they lack enough nurses to safely staff units, manage patient flow, and maintain quality standards. As turnover increases, hospitals face higher labor costs, reduced throughput, and worsening patient ou
 
-This is a problem now rather than a general issue because several pressures have intensified simultaneously:
+This is a problem now, not a general workforce issue, because several pressures have intensified at the same time:
 
-- Post-pandemic burnout and early retirements among ED and inpatient nurses
-- Rising patient acuity and higher volumes in urban and suburban EDs
-- Boarding caused by inpatient units lacking staff to accept admissions
-- Increased labor costs limiting hospitals' ability to staff all ED zones
-- Documented increases in mortality associated with ED crowding and delayed care
+- Post-pandemic burnout, trauma, and early retirements
+- Wage inflation and competition from travel nurse agencies
+- Global nurse migration from low-income to high-income countries
+- Rising patient acuity driven by aging populations
+- Inelastic labor supply that cannot respond quickly to increased demand
 
-These converging forces create a dangerous mismatch between patient demand and staffing capacity, making ED throughput failure an urgent economic and clinical challenge.
+These forces have created a dangerous mismatch between nursing labor supply and hospital staffing needs, making nurse turnover an urgent global economic and clinical challenge.
 
 ## Economics it touches
 
 ### Microeconomics
 
-- Labor supply and demand: not enough nurses and support staff to maintain safe ED flow.
-- Capacity constraints: ED beds cannot turn over because staff cannot move patients through the system.
-- Queueing and throughput economics: longer waits increase congestion and reduce service efficiency.
-- Cost trade-offs: hospitals must choose between overtime, travel nurses, or closing ED zones.
-- Incentives: pay differentials, bonuses, and retention strategies shape staffing behavior.
+- Labor supply elasticity: Nursing labor is highly inelastic; even large wage increases produce only small increases in supply.
+- Cost trade-offs: Hospitals must choose between retention programs, wage increases, travel nurses, or reduced services.
 
 ### Macroeconomics
 
-- Demographic shifts: aging populations increase ED visits and inpatient admissions.
-- Inflation: rising labor and operating costs reduce staffed capacity.
-- Labor force participation: national declines in healthcare participation reduce available staff.
-- Government reimbursement: Medicare/Medicaid rates affect hospitals' ability to staff ED and inpatient units.
+- Global migration: Nurses move from low-income to high-income countries, creating uneven global shortages.
+- Inflation: Wage inflation in healthcare raises overall system costs.
 
-This problem sits at the intersection of labor economics, capacity economics, and patient-flow modeling.
+This problem sits at the intersection of labor economics, incentive economics, and global workforce dynamics.
 
 ## Planned analysis
 
-I plan to analyze how staffing shortages directly reduce ED throughput and contribute to increased mortality. My analysis will include:
+I plan to analyze how rising nurse turnover affects hospital quality and financial performance, and evaluate which retention strategy offers the strongest economic return. My analysis will include:
 
-- Trends in ED wait times, length of stay, and boarding hours
-- Staffing levels compared to patient volumes
-- Licensed beds vs. staffed beds in inpatient units (a major driver of ED boarding)
-- Mortality trends associated with ED crowding and delayed care
-- Cost impacts of overtime, travel nurses, and closed ED zones
+- Trends in nurse turnover and vacancy rates, and the direct costs they drive (replacement cost, overtime, travel nurse spending)
+- Wage inflation and labor supply elasticity in nursing
+- Patient safety indicators associated with staffing shortages
+- Return on investment for the strongest-performing retention strategy (wage increases, bonuses, career development, or improved working conditions), with the others noted as alternatives considered
 
-The goal is to determine whether current labor-market conditions and hospital incentives can improve throughput, or whether they unintentionally worsen congestion and patient outcomes.
+The goal is to determine whether current labor-market conditions and hospital incentives can stabilize the workforce, or whether they unintentionally worsen shortages and financial strain.
 
 **What would prove me wrong**
 
 My argument would be weakened if the data show that:
 
-- ED throughput is improving despite staffing shortages
-- Mortality is not correlated with crowding or delays
-- Hospitals are successfully opening more staffed inpatient beds
-- Wage increases or incentives are effectively increasing staffing
-- The mismatch between staff and patient volume is temporary rather than structural
-
-If these conditions appear, the issue may not be a structural economic problem but a short-term operational fluctuation.
+- Nurse turnover is decreasing or stabilizing
+- Wage increases significantly improve staffing levels (indicating more elastic supply)
+- Patient safety outcomes are not correlated with staffing shortages
+- Retention incentives are cost-ineffective or produce minimal improvement
+- Global migration flows are not contributing to local shortages
