@@ -1,52 +1,69 @@
 # Brief: Individual Research Paper
 
-**Research question:** How is the global rise in nurse turnover affecting hospital quality and financial performance, and which retention strategy provides the strongest economic return for stabilizing staffing levels?
+## Research Question
 
-## The challenge
+How does the inelastic supply of registered nurses increase hospital turnover
+costs, and which retention strategy provides the strongest economic return for a
+U.S. hospital?
 
-The challenge is the global rise in nurse turnover, which is creating severe staffing shortages that directly affect hospital quality, patient safety, and financial performance. Hospitals across high-income and low-income countries are struggling to maintain adequate staffing levels as nurses leave their jobs, migrate internationally, or exit the profession entirely. Even when hospitals have physical bed capacity, they cannot operate at full capability because they lack enough nurses to safely staff units, manage patient flow, and maintain quality standards. As turnover increases, hospitals face higher labor costs, reduced throughput, and worsening patient outcomes.
+## The Challenge
 
-This is a problem now, not a general workforce issue, because several pressures have intensified at the same time:
+Many U.S. hospitals face persistent nursing shortages despite rising wages. This
+paper argues that registered nurse (RN) labor supply is relatively inelastic, so
+increases in pay produce only limited increases in employment. At the same time,
+aging populations and higher patient acuity increase demand for nursing services.
+When nurses leave, hospitals cannot easily replace them, leading to higher
+turnover costs, overtime spending, and staffing instability. At the average U.S.
+hospital, staff RN turnover was 17.6% in 2025, and each departure cost about
+$60,090 to replace (NSI, 2026).
 
-- Post-pandemic burnout, trauma, and early retirements
-- Wage inflation and competition from travel nurse agencies
-- Global nurse migration from low-income to high-income countries
-- Rising patient acuity driven by aging populations
-- Inelastic labor supply that cannot respond quickly to increased demand
+This is both an economic and operational problem because labor shortages raise
+costs while threatening care quality and workforce stability.
 
-These forces have created a dangerous mismatch between nursing labor supply and hospital staffing needs, making nurse turnover an urgent global economic and clinical challenge.
+## Economics It Touches
 
-## Economics it touches
+Microeconomics
 
-### Microeconomics
+* Labor supply elasticity: whether RN employment responds to wage increases.
+* Turnover costs: Hospitals incur recruitment, onboarding, overtime, and
+  productivity costs when nurses leave.
+* Incentives: Hospitals must decide whether retention investments generate
+  greater value than replacement strategies.
 
-- Labor supply elasticity: Nursing labor is highly inelastic; even large wage increases produce only small increases in supply.
-- Cost trade-offs: Hospitals must choose between retention programs, wage increases, travel nurses, or reduced services.
+## Planned Analysis
 
-### Macroeconomics
+This paper will examine the following causal chain:
 
-- Global migration: Nurses move from low-income to high-income countries, creating uneven global shortages.
-- Inflation: Wage inflation in healthcare raises overall system costs.
+Inelastic nurse supply → costly turnover → retention strategy → financial return
 
-This problem sits at the intersection of labor economics, incentive economics, and global workforce dynamics.
+The analysis will:
 
-## Planned analysis
+1. Measure the observed ratio of % change in RN employment to % change in the
+   real median RN wage (BLS OEWS, May 2015–May 2019, deflated by CPI-U), shown
+   in Figure 1. This is consistent with inelastic supply if below 1.0, but it is
+   not a precise elasticity, because supply may also have shifted over the window.
+2. Measure turnover and its cost: NSI RN turnover rate over 2023–2025 and NSI
+   cost per RN turnover ($60,090 in the 2026 report).
+3. Evaluate the NCSBN new-graduate transition-to-practice program (2017
+   multisite evaluation). It is the one strategy computed in full because it has
+   a published cost and effect that can be moved to a single hospital. Wage
+   increases, bonuses, and working-condition changes are discussed as
+   alternatives but not computed, because none has a comparable evaluation.
+4. Move the program to the case hospital: avoided new-graduate departures ×
+   $60,090, compared with the program's cost for the hospital's annual
+   new-graduate hires.
 
-I plan to analyze how rising nurse turnover affects hospital quality and financial performance, and evaluate which retention strategy offers the strongest economic return. My analysis will include:
+The paper is written for the chief financial officer of a U.S. nonprofit
+community hospital with about 490 RNs (the average hospital in the NSI 2026
+report), deciding whether to fund a nurse retention program.
 
-- Trends in nurse turnover and vacancy rates, and the direct costs they drive (replacement cost, overtime, travel nurse spending)
-- Wage inflation and labor supply elasticity in nursing
-- Patient safety indicators associated with staffing shortages
-- Return on investment for the strongest-performing retention strategy (wage increases, bonuses, career development, or improved working conditions), with the others noted as alternatives considered
+The paper ends with a recommendation to the CFO: fund the program or not, tested
+by recomputing the return with the program's effect cut in half.
 
-The goal is to determine whether current labor-market conditions and hospital incentives can stabilize the workforce, or whether they unintentionally worsen shortages and financial strain.
-
-**What would prove me wrong**
+## What Would Prove Me Wrong
 
 My argument would be weakened if the data show that:
 
-- Nurse turnover is decreasing or stabilizing
-- Wage increases significantly improve staffing levels (indicating more elastic supply)
-- Patient safety outcomes are not correlated with staffing shortages
-- Retention incentives are cost-ineffective or produce minimal improvement
-- Global migration flows are not contributing to local shortages
+* The observed employment–wage ratio is 1.0 or higher (supply is not inelastic).
+* NSI RN turnover rose by less than 1.0 percentage point over 2023–2025.
+* The program's annual cost exceeds 100% of the annual turnover cost it avoids.
