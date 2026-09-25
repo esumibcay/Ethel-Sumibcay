@@ -49,3 +49,21 @@ Working through the guided questions helped the economics click into place. The 
 I also learned that AI can sound correct while being wrong in ways that matter. One draft stated the shutdown rule as "as long as P ≥ MC," which is incorrect—the rule uses average variable cost, and using the wrong statistic would have changed the entire conclusion about carrots and mesclun. Another AI-generated paragraph listed carrot marginal cost at $1,742 and mesclun's price at $1,800, neither of which matched my workbook. I also accepted a "20% price decline" sensitivity number that wasn't derived from anything, when the correct threshold is 6.27% based on bed 10's margin. Catching these mistakes showed me that verification isn't just a step in the process; it's what keeps the analysis tied to the actual model instead of a confident-sounding error.
 
 Going forward, I'll treat every AI‑supplied number as something to verify myself. The back‑and‑forth was helpful for clarifying concepts, but the checking is what grounded the analysis and made me confident in the conclusions I reached.
+
+## 2026-09-24 — Research paper revisions per feedback (Claude)
+
+Used Claude to interpret the 2026-09-22 research paper review and draft
+revisions to the brief and spec: figure changed to employment vs. real wage,
+vacancy dropped in favor of turnover, brief cut to one three-link mechanism,
+CFO decision-maker named, numeric falsification thresholds added, ROI bridge
+written into the spec, and Aiken, NSI, and Silvestre et al. citations completed.
+
+Claude corrected an earlier error in its own draft: it had stated that the
+employment–wage ratio is a supply elasticity only if demand held still; the
+correct condition is that demand shifts along a stable supply curve, so the
+threat is supply shifts. The spec caveat uses the corrected version.
+
+Numbers supplied by AI that I need to verify myself: the 490-RN case hospital
+(derived from NSI's $295,000 per turnover point ÷ $60,090), NSI's 17.6%
+turnover and $60,090 cost, and the Silvestre et al. figures (15.5% vs. 26.8%
+turnover, $3,185 + $723 cost per new graduate, mean of 15 hires per hospital).
