@@ -1,6 +1,6 @@
-year,rn_employment,median_annual_wage_nominal,source_url
-2015,2745910,67490,https://www.bls.gov/news.release/archives/ocwage_03302016.htm
-2016,2857180,,https://www.bls.gov/oes/2016/may/oes291141.htm
-2017,,,https://www.bls.gov/oes/2017/may/oes291141.htm
-2018,,,https://www.bls.gov/oes/2018/may/oes291141.htm
-2019,2982280,73300,https://www.bls.gov/oes/2019/may/oes291141.htm
+year,rn_employment,median_hourly_wage,median_annual_wage_nominal,source_url
+2015,2745910,32.45,67496,https://www.bls.gov/news.release/archives/ocwage_03302016.htm
+2016,2857180,32.91,68453,https://www.bls.gov/news.release/archives/ocwage_03312017.htm
+2017,2906840,33.65,69992,https://www.bls.gov/news.release/archives/ocwage_03302018.htm
+2018,2951960,34.48,71718,https://www.bls.gov/news.release/archives/ocwage_03292019.pdf
+2019,2982280,35.24,73299,https://www.bls.gov/oes/2019/may/oes291141.htm
