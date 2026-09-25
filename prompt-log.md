@@ -67,3 +67,12 @@ Numbers supplied by AI that I need to verify myself: the 490-RN case hospital
 (derived from NSI's $295,000 per turnover point ÷ $60,090), NSI's 17.6%
 turnover and $60,090 cost, and the Silvestre et al. figures (15.5% vs. 26.8%
 turnover, $3,185 + $723 cost per new graduate, mean of 15 hires per hospital).
+
+Corrected the per-point turnover cost to NSI's exact $294,976 (still ≈ 490 RNs).
+
+Data pulled: NSI 2026, BLS OEWS 2015–2019 (from BLS national news releases),
+and BLS CPI-U. Against the thresholds set before pulling: link 1 fails (observed
+employment–wage ratio ≈ 12.7, because real RN wages rose only ~0.7% while
+employment rose ~8.6%); link 2 fails (turnover fell 0.8 points, 18.4% → 17.6%,
+over 2023–2025); link 3 passes at the published effect (ROI ≈ 1.26) but fails
+at half effect (≈ 0.63). Numbers to verify myself before the paper.
