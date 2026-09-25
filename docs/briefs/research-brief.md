@@ -18,7 +18,7 @@ hospital, staff RN turnover was 17.6% in 2025, and each departure cost about
 $60,090 to replace (NSI, 2026).
 
 This is both an economic and operational problem because labor shortages raise
-costs while threatening care quality and workforce stability.
+costs while threatening care quality (Aiken et al., 2002) and workforce stability.
 
 ## Economics It Touches
 
@@ -44,8 +44,7 @@ The analysis will:
    not a precise elasticity, because supply may also have shifted over the window.
 2. Measure turnover and its cost: NSI RN turnover rate over 2023–2025 and NSI
    cost per RN turnover ($60,090 in the 2026 report).
-3. Evaluate the NCSBN new-graduate transition-to-practice program (2017
-   multisite evaluation). It is the one strategy computed in full because it has
+3. Evaluate the new-graduate transition-to-practice program evaluated by Silvestre et al. (2017). It is the one strategy computed in full because it has
    a published cost and effect that can be moved to a single hospital. Wage
    increases, bonuses, and working-condition changes are discussed as
    alternatives but not computed, because none has a comparable evaluation.
