@@ -5,7 +5,7 @@
 The paper is written for the chief financial officer of a U.S. nonprofit
 community hospital with about 490 RNs, deciding whether to fund a nurse
 retention program. The hospital is set to match the average hospital in the
-NSI reports that each 1-point change in RN turnover costs the
+NSI 2026 report: NSI reports that each 1-point change in RN turnover costs the
 average hospital $294,976 a year, and $294,976 ÷ $60,090 per turnover
 ≈ 4.91 departures per point, which implies about 490 RNs.
 
