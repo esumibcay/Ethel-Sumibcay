@@ -44,7 +44,7 @@ The analysis will:
    not a precise elasticity, because supply may also have shifted over the window.
 2. Measure turnover and its cost: NSI RN turnover rate over 2023–2025 and NSI
    cost per RN turnover ($60,090 in the 2026 report).
-3. Evaluate the new-graduate transition-to-practice program evaluated by Silvestre et al. (2017). It is the one strategy computed in full because it has
+3. 3. Evaluate the new-graduate transition-to-practice program studied by Silvestre et al. (2017). It is the one strategy computed in full because it has
    a published cost and effect that can be moved to a single hospital. Wage
    increases, bonuses, and working-condition changes are discussed as
    alternatives but not computed, because none has a comparable evaluation.
