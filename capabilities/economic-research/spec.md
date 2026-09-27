@@ -38,7 +38,7 @@ average hospital $294,976 a year, and $294,976 ÷ $60,090 per turnover
   → 7% higher odds of 30-day mortality (OR 1.07, 95% CI 1.03–1.12); surgical
   patients, 168 hospitals.
 
-_Files in `data/`: `nsi_2026_retention_report.pdf`, `nsi_turnover.csv`,
+_Files in `data/`: `nsi_turnover.csv`,
 `nsi_cost.csv`, `oews_rn_2015_2019.csv`, `cpi_u_annual.csv`. Source,
 publication/pull date, and transformations for each are recorded in
 `data/README.md`._
@@ -84,9 +84,7 @@ itself
    graduate, including one-time development. A hospital adopting an existing
    program might pay only the $3,185 ongoing cost; the paper reports both.
 
-   *Scale:* the program covers only new graduates (about 15 of roughly 86
-   annual departures), so it addresses a small share of the hospital's total
-   turnover cost. The paper states this directly in the recommendation.
+   *Scale:* the program reaches only the 15 new graduates hired each year; at the published effect it prevents about 1.7 of roughly 86 annual departures (about 2%). The paper states this directly in the recommendation.
 
    Wage increases, bonuses, and working-condition changes are discussed as
    alternatives but not computed, because none has a published evaluation with a
