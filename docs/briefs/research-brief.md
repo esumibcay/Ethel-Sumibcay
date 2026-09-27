@@ -29,9 +29,10 @@ Microeconomics
   wage increases.
 * Turnover costs: hospitals incur recruitment, onboarding, overtime, temporary
   staffing, and productivity costs when nurses leave.
-* Cost-benefit analysis and incentives: hospitals must decide whether a
+* Cost-benefit and marginal analysis: hospitals must decide whether a
   retention program's benefits exceed its costs, compared with repeatedly
-  replacing departing nurses.
+  replacing departing nurses; the break-even share of the published effect is
+  where the program's benefit equals its cost.
 
 ## Planned Analysis
 
