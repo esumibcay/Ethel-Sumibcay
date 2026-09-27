@@ -34,7 +34,9 @@ average hospital $294,976 a year, and $294,976 ÷ $60,090 per turnover
 - **Care quality (cited context, not a link in the chain):** Aiken, L. H.,
   Clarke, S. P., Sloane, D. M., Sochalski, J., & Silber, J. H. (2002). Hospital
   nurse staffing and patient mortality, nurse burnout, and job dissatisfaction.
-  *JAMA, 288*(16), 1987–1993. Record its reported effect size.
+  *JAMA, 288*(16), 1987–1993. Effect size: each additional patient per nurse
+  → 7% higher odds of 30-day mortality (OR 1.07, 95% CI 1.03–1.12); surgical
+  patients, 168 hospitals.
 
 _Files in `data/`: `nsi_2026_retention_report.pdf`, `nsi_turnover.csv`,
 `nsi_cost.csv`, `oews_rn_2015_2019.csv`, `cpi_u_annual.csv`. Source,
