@@ -7,7 +7,7 @@ provenance (source, 2026-09-24 pulled, any transformations).
 
 | File | Source | Published / pulled | Transformations |
 |---|---|---|---|
-| nsi_2026_retention_report.pdf | NSI Nursing Solutions, Inc., *2026 NSI National Health Care Retention & RN Staffing Report* | Published March 2026 (covers Jan–Dec 2025); pulled [2026-09-24] | None |
+Report is available from NSI's website (nsinursingsolutions.com)
 | nsi_turnover.csv | NSI 2026 report, p. 5 chart | Pulled [2026-09-24] | Staff RN turnover rate, 2021–2025, copied by hand |
 | nsi_cost.csv | NSI 2026 report, Quick Reference Guide | Pulled [2026-09-24] | Cost per RN turnover and cost per 1-point change, copied by hand |
 | oews_rn_2015_2019.csv | U.S. BLS, Occupational Employment Statistics, national estimates, Registered Nurses (SOC 29-1141) | May 2015–May 2018 from each year's national news release (Table 1); May 2019 from the RN occupation page; pulled [2026-09-24 | Employment and median hourly wage copied by hand; annual median = median hourly × 2,080 (BLS convention); deflated to real dollars with CPI-U in the analysis |
