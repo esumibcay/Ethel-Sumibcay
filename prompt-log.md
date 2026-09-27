@@ -76,3 +76,46 @@ employment–wage ratio ≈ 12.7, because real RN wages rose only ~0.7% while
 employment rose ~8.6%); link 2 fails (turnover fell 0.8 points, 18.4% → 17.6%,
 over 2023–2025); link 3 passes at the published effect (ROI ≈ 1.26) but fails
 at half effect (≈ 0.63). Numbers to verify myself before the paper.
+
+## 2026-09-26 — Responding to the 2026-09-26 review; figures (Claude)
+
+Used Claude to work through the 2026-09-26 review. Claude recomputed the
+employment–wage ratio from my data files (employment +8.6%, real median wage
++0.7%, ratio ≈ 12.7), which matches my professor's "around 12." Link 1 fails by
+the threshold I set before pulling data. No other windows or measures were
+tried.
+
+Decisions I made:
+- I first chose to drop link 1, then changed to keeping it and reporting that
+  it failed. The brief and spec record the result, and Figure 1 shows it.
+- I rewrote the research question as "Under what conditions does a nurse
+  residency program generate a positive return…?" so the half-effect result
+  shapes the recommendation.
+- I used "nurse residency program" throughout, defined once as the Silvestre
+  et al. (2017) program.
+
+Claude flagged two problems in my own revision of the brief. First, I had added
+a fourth falsification condition (the recommendation surviving a 50% cut in
+effect) after seeing the data, and it already fails at 0.63. I removed it so
+the list matches the three conditions set in advance. Second, link 1 was back
+in the brief without its result stated. I added the result.
+
+Other changes: link 2's result (−0.8 points) is now stated in the brief, with
+the analysis resting on the 17.6% level. The economics list is trimmed to the
+three concepts that match the three links. The ongoing-cost-only ratio is
+reported beside the full-cost ratio. The Aiken et al. (2002) effect size is
+recorded in the spec.
+
+Figures: Claude drew Figure 1 (annual employment change vs. real wage change,
+with the ratio = 1.0 line) and Figure 2 (ROI ratio vs. share of the published
+effect achieved, full and ongoing-only cost, break-even at 1.0). The scripts
+are in analysis/figures (fig1.py, fig2.py). fig1.py reads the data files
+directly; fig2.py uses the figures from the ROI bridge in the spec.
+
+AI-supplied figures and how they were checked:
+- Aiken et al. effect size (7% higher odds of 30-day mortality per additional
+  patient per nurse; OR 1.07, 95% CI 1.03–1.12): Claude supplied it from
+  memory, then confirmed it against the article's abstract.
+- Key numbers (12.7; −0.8 points; $101,853 avoided; $81,012 full cost; $66,024
+  ongoing cost; break-even at 79.5% and 64.8%): Claude recomputed them from my
+  files, and I checked them myself. They match.
