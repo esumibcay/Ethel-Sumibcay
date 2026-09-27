@@ -119,3 +119,13 @@ AI-supplied figures and how they were checked:
 - Key numbers (12.7; −0.8 points; $101,853 avoided; $81,012 full cost; $66,024
   ongoing cost; break-even at 79.5% and 64.8%): Claude recomputed them from my
   files, and I checked them myself. They match.
+
+ ## Reflection
+
+The hardest part of this project was accepting that my data did not support two of my three links. At first, I wanted to find a way to make the results fit my expectations, but I realized that would defeat the purpose of setting the tests in advance. Reporting the failed results made the paper more honest and kept the focus on the real question: whether the program saves more money than it costs.
+
+The half-effect test had the biggest impact on my recommendation. It changed my conclusion from simply funding the program to funding it only if the hospital can achieve most of the turnover reduction reported in the research.
+
+This project also reminded me to verify every number and assumption. Going forward, I will continue to set my criteria before analyzing the data and let the evidence guide my conclusions, even when the results are not what I expected.
+
+
