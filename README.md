@@ -7,7 +7,6 @@ This table is the map of the portfolio: each row links a piece of work to the ca
 
 | Date | Capability | Brief | Analysis / Report | Decision |
 |------|-----------|-------|--------------------|----------|
-| _placeholder_ | [marginal-analysis](capabilities/marginal-analysis/README.md) | _link to docs/briefs/... when written_ | _link to analysis/... when written_ | _link to docs/decisions/... when written_ |
-| _pending_ | [economic-research](capabilities/economic-research/README.md) | _link to docs/briefs/research-brief.md when written_ | _link to analysis/research-paper.pdf when written_ | _recommendation is in the paper itself_ |
-
+| 2026-09-19 | [marginal-analysis](capabilities/marginal-analysis/README.md) | [Perfect competition brief](docs/briefs/perfect-competition-brief.md) | [Perfect competition analysis](analysis/perfect-competition-analysis.md) | [Recommendation memo](docs/decisions/perfect-competition-memo.md) |
+| In progress (due 2026-10-09) | [economic-research](capabilities/economic-research/README.md) | [Research brief](docs/briefs/research-brief.md) | [Draft 2](drafts/2026-09-27-draft.md) | Recommendation is in the paper itself |
 See [AGENTS.md](AGENTS.md) for how AI tools are used in this repo, and [prompt-log.md](prompt-log.md) for the running record of significant sessions.
