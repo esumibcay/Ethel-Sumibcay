@@ -120,6 +120,32 @@ AI-supplied figures and how they were checked:
   ongoing cost; break-even at 79.5% and 64.8%): Claude recomputed them from my
   files, and I checked them myself. They match.
 
+## 2026-10-01 — Responding to the 2026-10-01 review; Draft 3 (Claude)
+Decisions I made:
+- Aiken: I chose to say "staffing" rather than claim a turnover effect. I wrote
+  the staffing sentence myself. Claude suggested adding that a departure leaves
+  a position open until it is filled, and that the paper does not measure this,
+  so Aiken is context and not part of the ROI. I kept both sentences.
+- Alternatives: I chose to name them in the recommendation instead of removing
+  the promise from the brief and spec. Claude drafted the sentences; I rewrote
+  the recommendation in my own words and added the break-even sentence (about
+  80%, or about 65% on ongoing cost only) so the CFO has a number to track.
+- I changed "evaluated" to "computed" in the alternatives sentence so it
+  matches the wording in the brief and spec.
+
+Repo fixes:
+- fig1.py now saves to figure1_employment_wage_1.png, the file the draft
+  embeds. Claude reran the script; the new image was byte-for-byte identical.
+- data/README.md: I moved the NSI line below the table. Claude checked the
+  committed file with a GitHub-style renderer and caught that, without a blank
+  line, the sentence still showed up as a table row. I added the blank lines.
+
+  AI-supplied figures and how they were checked:
+- Real wage change: Claude recomputed it from oews_rn_2015_2019.csv and
+  cpi_u_annual.csv as +0.680%, not 0.7%; with employment +8.61%, the ratio is
+  12.66, which rounds to the 12.7 already in the paper. The draft now says
+  0.68%. Yearly ratios (26.2, 15.1, 67.6, 2.7) match Figure 1's labels.
+  
  ## Reflection
 
 The hardest part of this project was accepting that my data did not support two of my three links. At first, I wanted to find a way to make the results fit my expectations, but I realized that would defeat the purpose of setting the tests in advance. Reporting the failed results made the paper more honest and kept the focus on the real question: whether the program saves more money than it costs.
