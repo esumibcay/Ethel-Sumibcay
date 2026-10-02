@@ -11,7 +11,9 @@ provenance (source, 2026-09-24 pulled, any transformations).
 | nsi_cost.csv | NSI 2026 report, Quick Reference Guide | Pulled [2026-09-24] | Cost per RN turnover and cost per 1-point change, copied by hand |
 | oews_rn_2015_2019.csv | U.S. BLS, Occupational Employment Statistics, national estimates, Registered Nurses (SOC 29-1141) | May 2015–May 2018 from each year's national news release (Table 1); May 2019 from the RN occupation page; pulled [2026-09-24 | Employment and median hourly wage copied by hand; annual median = median hourly × 2,080 (BLS convention); deflated to real dollars with CPI-U in the analysis |
 | cpi_u_annual.csv | U.S. BLS, CPI-U, U.S. city average, all items, not seasonally adjusted (series CUUR0000SA0), "Avg" column of BLS table at bls.gov/regions/northeast/data/consumerpriceindex_us_table.htm | Pulled [2026-09-24] | Annual averages; used to deflate OEWS wages (2015–2019) and to convert Silvestre et al. (2017) costs from 2013 to 2025 dollars. October 2025 was not collected due to the 2025 lapse in appropriations; the BLS-published 2025 average is used as given |
+
 The NSI report is available from NSI's website (nsinursingsolutions.com).
+
 Cited estimates (not raw series): Silvestre et al. (2017) program cost and
 turnover rates; Aiken et al. (2002) staffing–mortality effect. Full citations
 are in `capabilities/economic-research/spec.md`.
