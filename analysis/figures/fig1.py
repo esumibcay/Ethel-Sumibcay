@@ -20,7 +20,7 @@ for y,x,e in pts:
     ax.plot(x,e,"o",ms=8,color=B,mec="white",mew=1.5,zorder=3)
     ax.annotate(f"{y}  (ratio {e/x:.1f})",(x,e),xytext=(9,-3),textcoords="offset points",fontsize=9,color=INK)
 ax.set_xlim(0,4.5); ax.set_ylim(0,4.5); ax.set_aspect("equal")
-ax.set_xlabel("Annual % change in real median RN wage (2019 dollars)",color=INK)
+ax.set_xlabel("Annual % change in real median RN wage (CPI-U adjusted)",color=INK)
 ax.set_ylabel("Annual % change in RN employment",color=INK)
 for sp in("top","right"): ax.spines[sp].set_visible(False)
 for sp in("left","bottom"): ax.spines[sp].set_color(INK2)
